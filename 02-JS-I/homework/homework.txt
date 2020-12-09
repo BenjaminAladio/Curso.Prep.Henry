@@ -1,0 +1,16 @@
+Variables:
+Una variable en JavaScript sirve para asignarle un valor, ya sea numerico o Una
+palabra o cadenas de palabras para ser utilizada luego
+Strings:
+String es cadena y se utiliza para definir una texto
+Funciones (argumentos, return):
+Una funcion es un tipo de procedimiento en donde se le da instrucciones y esta 
+funcion devuelve una tarea o valor dependiendo de que se lleve a cabo. 
+Los argumentos por su parte son los valores que recibe una funcion; y los return
+devuelve el valor o resultado de la funcion.
+Declaraciones if:
+La declaracion if se utiliza para tomar decisiones. Es un condicional para la 
+realizacion de operaciones
+Valores booleanos (true, false):
+el true y false son valores booleanos y se utilizan para la comparacion
+y condicion de dos o mas datos.
