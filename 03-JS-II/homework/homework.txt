@@ -1,0 +1,10 @@
+for:
+El for es un bucle que se utiliza para repertir una instruccion, la cual 
+se coloca entre parentesis. Dentro de él se establece la variable como
+inicial y a partir del resultado se vuelve a ejecutar efectuado los 
+cambios correspondientes en la sintaxis
+
+&&,||:
+El &&(and) y el ||(or) son operadores logicos. Obtienen su resultados a 
+partir de dos valores booleanos y devuelven el valor de unos de los 
+operandos.
